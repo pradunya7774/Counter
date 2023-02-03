@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.btn{
+  padding: 1rem;
+  border: 0px;
+  color: black;
+  background-color: #d3d3d3;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.count{
+  font-size: 20px;
+  padding: 1rem;
+}
